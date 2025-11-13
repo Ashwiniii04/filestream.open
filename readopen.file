@@ -1,0 +1,13 @@
+#include<iostream>
+#include<fstream>
+using namespace std;
+    int main(){
+        ifstream file("wini.txt");
+        string word;
+        int THE = 0;
+        while(file >> word){
+            if(word == "the" || word == "The")
+            THE++;
+        }
+        cout << THE;
+    }
