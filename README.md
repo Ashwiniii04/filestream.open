@@ -29,6 +29,8 @@ Example content of *wini.txt*:
 
 ```
 g++ count.cpp -o count
+
+
 ./count
 ```
 
@@ -45,3 +47,5 @@ Ashwini
 ## 📄 License
 
 This project is free to use for learning and practice.
+<img width="956" height="491" alt="image" src="https://github.com/user-attachments/assets/9cc09721-ca6e-4601-bf67-8e3ff850b35c" />
+
